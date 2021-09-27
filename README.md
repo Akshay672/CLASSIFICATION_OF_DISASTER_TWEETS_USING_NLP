@@ -15,3 +15,5 @@ Coronavirus
 Bushfires in Australia
 Iran downing of the airplane flight PS752
 Disclaimer: The dataset contains text that may be considered profane, vulgar, or offensive.
+
+Dataset Link : <a href='https://www.kaggle.com/vstepanenko/disaster-tweets'>Link</a>
